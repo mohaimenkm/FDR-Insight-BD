@@ -1,4 +1,3 @@
-# FDR-Insight-BD
 # FDR Insight BD — Smart Fixed Deposit Comparison & Analytics
 
 A powerful, interactive Fixed Deposit Receipt (FDR) comparison and financial analytics platform designed for Bangladesh. Compare interest rates across 40+ government-owned, private, and Islamic banks, calculate estimated investment returns, evaluate banking risks, and make smarter, data-driven financial decisions—all through a modern, user-friendly dashboard.
